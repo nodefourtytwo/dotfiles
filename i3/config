@@ -41,7 +41,7 @@ set $fg  #ebdbb2
 set $btu #282828
 set $fgu #ebdbb2
 
-set $wallpaper ~/Images/branch.png
+set $wallpaper ~/Images/rain.png
 
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod

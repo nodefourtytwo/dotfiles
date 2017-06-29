@@ -1,3 +1,5 @@
+set mouse=a
+set hidden
 set number
 set nowrap
 set showbreak=+++
@@ -53,6 +55,7 @@ Plug 'townk/vim-autoclose'
 Plug 'ervandew/supertab'
 Plug 'ekalinin/Dockerfile.vim'
 Plug 'mhinz/vim-startify'
+Plug 'rust-lang/rust.vim'
 call plug#end()
 
 " ------------------------------------------------
